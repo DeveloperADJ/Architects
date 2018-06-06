@@ -6,7 +6,7 @@ git_source(:github) do |repo_name|
 end
 
 # postgres
-gem 'pg', '~> 0.18.4'
+gem 'pg'
 #haml
 gem "haml"
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
